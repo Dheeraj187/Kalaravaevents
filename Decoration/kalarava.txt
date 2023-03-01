@@ -1,0 +1,19 @@
+  <header>
+            <div class="kalarava">KALARAVA</div>
+            <h3>KALARAVA</h3>
+            <div class="contentflex_space">
+                <div class="logo">
+                    <!-- <img src="KE1.jpeg" width="100px" alt=""> -->
+                </div>
+                <div class="navilist">
+                    <ul id="menulist">
+                 <li><a href="Home">home</a></li>
+                <li><a href="#about">about</a></li>
+                <li><a href="#recent">recent</a></li>
+                <li><a href="#pages">pages</a></li>
+                <li><a href="#contact">contact</a></li>
+                <li><a href="#news">news</a></li>
+                <li><i class="fa fa-search"></i></li>
+                <li><button type="button " name="BOOK NOW"></button></li></ul>
+                <span class="fa fa-bars"></span>
+            </div>
